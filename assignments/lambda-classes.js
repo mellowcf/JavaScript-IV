@@ -72,8 +72,8 @@ const fred = new Person({
     age: 37
 })
 
-const cole = new Student ({
-    name: 'Cole',
+const cam = new Student ({
+    name: 'Cam',
     location: 'Baton Rouge',
     age: 25,
     previousBackground: 'Udemy',
@@ -81,8 +81,8 @@ const cole = new Student ({
     favSubjects: ['React', 'Back-End']
 })
 
-const kieran = new Instructor({
-    name: 'kieran',
+const kelly = new Instructor({
+    name: 'Kelly',
     location: 'New York',
     age: 25,
     favLanguage: 'JavaScript',
@@ -90,8 +90,8 @@ const kieran = new Instructor({
     catchPhrase: 'You got this!'
 })
 
-const larry = new ProjectManager({
-    name: 'Larry',
+const lance = new ProjectManager({
+    name: 'Lance',
     location: 'Kansas',
     age: 25,
     favLanguage: 'JavaScript',
